@@ -66,6 +66,8 @@ int main() {
         }
     }
 
+
+
     std::cout << "Resulting map:" << std::endl;
     for (const auto &row : map) {
         std::cout << "[ ";
